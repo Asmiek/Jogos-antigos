@@ -1,0 +1,29 @@
+body{
+ 
+    background: #c32d22;
+    background: linear-gradient(0deg,rgba(195, 45, 34, 1) 0%, rgba(253, 187, 45, 1) 100%);
+   text-align: center;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.conteudotodo{
+
+    color: rgb(216, 234, 241);
+    font-family: "Roboto Condensed", sans-serif;
+    
+    
+
+}   
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+ul {
+
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+}
